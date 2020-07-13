@@ -1,0 +1,1129 @@
+{
+  "names": [
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "1",
+      "sura_name": "আল ফাতিহা",
+      "titleAr": "الفاتحة",
+      "para": "1",
+      "total_ayat": "7",
+      "eng_name": "Al-Fatihah"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "2",
+      "sura_name": "আল বাকারা",
+      "titleAr": "البقرة",
+      "para": "1",
+      "total_ayat": "286",
+      "eng_name": "Al-Baqara"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "3",
+      "sura_name": "আল ইমরান",
+      "titleAr": "آل عمران",
+      "para": "3",
+      "total_ayat": "200",
+      "eng_name": "Al-i'Imran"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "4",
+      "sura_name": "আন নিসা",
+      "titleAr": "النساء",
+      "para": "4",
+      "total_ayat": "176",
+      "eng_name": "An-Nisaa"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "5",
+      "sura_name": "আল মায়িদাহ",
+      "titleAr": "المائدة",
+      "para": "6",
+      "total_ayat": "120",
+      "eng_name": "Al-Maidah"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "6",
+      "sura_name": "আল আনআম",
+      "titleAr": "الأنعام",
+      "para": "7",
+      "total_ayat": "165",
+      "eng_name": "Al-An'am"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "7",
+      "sura_name": "আল আ'রাফ",
+      "titleAr": "الأعراف",
+      "para": "8",
+      "total_ayat": "206",
+      "eng_name": "Al-A'raf"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "8",
+      "sura_name": "আল-আনফাল",
+      "titleAr": "الأنفال",
+      "para": "9",
+      "total_ayat": "75",
+      "eng_name": "Al-Anfal"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "9",
+      "sura_name": "আত তাওবাহ",
+      "titleAr": "التوبة",
+      "para": "10",
+      "total_ayat": "129",
+      "eng_name": "At-Taubah"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "10",
+      "sura_name": "ইউনুস",
+      "titleAr": "يونس",
+      "para": "11",
+      "total_ayat": "109",
+      "eng_name": "Yunus"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "11",
+      "sura_name": "হুদ",
+      "titleAr": "هود",
+      "para": "12",
+      "total_ayat": "123",
+      "eng_name": "Hud"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "12",
+      "sura_name": "ইউসূফ",
+      "titleAr": "يوسف",
+      "para": "12",
+      "total_ayat": "111",
+      "eng_name": "Yusuf"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "13",
+      "sura_name": "রা'দ",
+      "titleAr": "الرعد",
+      "para": "13",
+      "total_ayat": "43",
+      "eng_name": "Ar-Ra'd"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "14",
+      "sura_name": "ইব্রাহীম",
+      "titleAr": "إبراهيم",
+      "para": "13",
+      "total_ayat": "52",
+      "eng_name": "Ibrahim"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "15",
+      "sura_name": "হিজর",
+      "titleAr": "الحجر",
+      "para": "13",
+      "total_ayat": "99",
+      "eng_name": "Al-Hijr"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "16",
+      "sura_name": "নাহল",
+      "titleAr": "النحل",
+      "para": "14",
+      "total_ayat": "128",
+      "eng_name": "An-Nahl"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "17",
+      "sura_name": "বনী ইসরাঈল",
+      "titleAr": "الإسراء",
+      "para": "15",
+      "total_ayat": "111",
+      "eng_name": "Israel"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "18",
+      "sura_name": "কাহফ",
+      "titleAr": "الكهف",
+      "para": "15",
+      "total_ayat": "110",
+      "eng_name": "Al-Kahf"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "19",
+      "sura_name": "মারইয়াম",
+      "titleAr": "مريم",
+      "para": "16",
+      "total_ayat": "98",
+      "eng_name": "Maryam"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "20",
+      "sura_name": "ত্বোয়া-হা",
+      "titleAr": "طه",
+      "para": "16",
+      "total_ayat": "135",
+      "eng_name": "Ta-ha"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "21",
+      "sura_name": "আম্বিয়া",
+      "titleAr": "الأنبياء",
+      "para": "17",
+      "total_ayat": "112",
+      "eng_name": "Al-Anbiyaa"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "22",
+      "sura_name": "হাজ্জ্ব",
+      "title": "Al-Hajj",
+      "para": "17",
+      "total_ayat": "78",
+      "eng_name": "Al-Hajj"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "23",
+      "sura_name": "আল মু'মিনূন",
+      "titleAr": "المؤمنون",
+      "para": "18",
+      "total_ayat": "118",
+      "eng_name": "Al-Muminun"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "24",
+      "sura_name": "আন-নূর",
+      "titleAr": "النور",
+      "para": "18",
+      "total_ayat": "64",
+      "eng_name": "An-Nur"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "25",
+      "sura_name": "আল-ফুরকান",
+      "titleAr": "الفرقان",
+      "para": "18",
+      "total_ayat": "77",
+      "eng_name": "Al-Furqan"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "26",
+      "sura_name": "আশ-শো'আরা",
+      "titleAr": "الشعراء",
+      "para": "19",
+      "total_ayat": "227",
+      "eng_name": "Ash-Shu'araa"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "27",
+      "sura_name": "নমল",
+      "titleAr": "النمل",
+      "para": "19",
+      "total_ayat": "93",
+      "eng_name": "An-Naml"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "28",
+      "sura_name": "আল কাসাস",
+      "titleAr": "القصص",
+      "para": "20",
+      "total_ayat": "88",
+      "eng_name": "Al-Qasas"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "29",
+      "sura_name": "আল আনকাবুত",
+      "titleAr": "العنكبوت",
+      "para": "20",
+      "total_ayat": "69",
+      "eng_name": "Al-Ankabut"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "30",
+      "sura_name": "আর-রূম",
+      "titleAr": "الروم",
+      "para": "21",
+      "total_ayat": "60",
+      "eng_name": "Ar-Rum"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "31",
+      "sura_name": "লোকমান",
+      "titleAr": "لقمان",
+      "para": "21",
+      "total_ayat": "34",
+      "eng_name": "Luqman"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "32",
+      "sura_name": "সেজদাহ",
+      "titleAr": "السجدة",
+      "para": "21",
+      "total_ayat": "30",
+      "eng_name": "As-Sajda"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "33",
+      "sura_name": "আল আহযাব",
+      "titleAr": "الأحزاب",
+      "para": "21",
+      "total_ayat": "73",
+      "eng_name": "Al-Ahzab"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "34",
+      "sura_name": "সাবা",
+      "titleAr": "سبأ",
+      "para": "22",
+      "total_ayat": "54",
+      "eng_name": "Saba"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "35",
+      "sura_name": "ফাতির",
+      "titleAr": "فاطر",
+      "para": "22",
+      "total_ayat": "45",
+      "eng_name": "Fatir"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "36",
+      "sura_name": "ইয়াসীন",
+      "titleAr": "يس",
+      "para": "22",
+      "total_ayat": "83",
+      "eng_name": "Ya-Sin"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "37",
+      "sura_name": "আস-সাফফাত",
+      "titleAr": "الصافات",
+      "para": "23",
+      "total_ayat": "182",
+      "eng_name": "As-Saffat"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "38",
+      "sura_name": "ছোয়াদ",
+      "titleAr": "ص",
+      "para": "23",
+      "total_ayat": "88",
+      "eng_name": "Sad"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "39",
+      "sura_name": "আল-যুমার",
+      "titleAr": "الزمر",
+      "para": "23",
+      "total_ayat": "75",
+      "eng_name": "Az-Zumar"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "40",
+      "sura_name": "আল-মু'মিন",
+      "titleAr": "المؤمنون",
+      "para": "24",
+      "total_ayat": "85",
+      "eng_name": "Al-Mu'min"
+    },
+    {
+      "sura_no": "41",
+      "sura_name": "হা-মীম সেজদাহ",
+      "para": "24",
+      "total_ayat": "54",
+      "eng_name": "Ha-Mim"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "42",
+      "sura_name": "আশ-শুরা",
+      "titleAr": "الشورى",
+      "para": "25",
+      "total_ayat": "53",
+      "eng_name": "Ash-Shura"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "43",
+      "sura_name": "যুখরুফ",
+      "titleAr": "الزخرف",
+      "para": "25",
+      "total_ayat": "89",
+      "eng_name": "Az-Zukhruf"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "44",
+      "sura_name": "আদ দোখান",
+      "titleAr": "الدخان",
+      "para": "25",
+      "total_ayat": "59",
+      "eng_name": "Ad-Dukhan"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "45",
+      "sura_name": "আল জাসিয়া",
+      "titleAr": "الجاثية",
+      "para": "25",
+      "total_ayat": "37",
+      "eng_name": "Al-Jathiya"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "46",
+      "sura_name": "আল আহক্বাফ",
+      "titleAr": "الأحقاف",
+      "para": "26",
+      "total_ayat": "35",
+      "eng_name": "Al-Ahqaf"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "47",
+      "sura_name": "মুহাম্মদ",
+      "titleAr": "محمد",
+      "para": "26",
+      "total_ayat": "38",
+      "eng_name": "Muhammad"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "48",
+      "sura_name": "আল ফাতহ",
+      "titleAr": "الفتح",
+      "para": "26",
+      "total_ayat": "29",
+      "eng_name": "Al-Fat-h"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "49",
+      "sura_name": "আল হুজরাত",
+      "titleAr": "الحجرات",
+      "para": "26",
+      "total_ayat": "18",
+      "eng_name": "Al-Hujurat"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "50",
+      "sura_name": "ক্বাফ",
+      "titleAr": "ق",
+      "para": "26",
+      "total_ayat": "45",
+      "eng_name": "Qaf"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "51",
+      "sura_name": "আয-যারিয়াত",
+      "titleAr": "الذاريات",
+      "para": "26",
+      "total_ayat": "60",
+      "eng_name": "Az-Zariyat"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "52",
+      "sura_name": "আত্ব তূর",
+      "titleAr": "الطور",
+      "para": "27",
+      "total_ayat": "49",
+      "eng_name": "At-Tur"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "53",
+      "sura_name": "আন-নাজম",
+      "titleAr": "النجم",
+      "para": "27",
+      "total_ayat": "62",
+      "eng_name": "An-Najm"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "54",
+      "sura_name": "আল ক্বামার",
+      "titleAr": "القمر",
+      "para": "27",
+      "total_ayat": "55",
+      "eng_name": "Al-Qamar"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "55",
+      "sura_name": "আর রহমান",
+      "titleAr": "الرحمن",
+      "para": "27",
+      "total_ayat": "78",
+      "eng_name": "Ar-Rahman"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "56",
+      "sura_name": "আল ওয়াক্বিয়া",
+      "titleAr": "الواقعة",
+      "para": "27",
+      "total_ayat": "96",
+      "eng_name": "Al-Waqi'a"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "57",
+      "sura_name": "আল হাদীদ",
+      "titleAr": "الحديد",
+      "para": "27",
+      "total_ayat": "29",
+      "eng_name": "Al-Hadid"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "58",
+      "sura_name": "আল মুজাদালাহ",
+      "titleAr": "المجادلة",
+      "para": "28",
+      "total_ayat": "22",
+      "eng_name": "Al-Mujadila"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "59",
+      "sura_name": "আল হাশর",
+      "titleAr": "الحشر",
+      "para": "28",
+      "total_ayat": "24",
+      "eng_name": "Al-Hashr"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "60",
+      "sura_name": "আল মুমতাহিনা",
+      "titleAr": "الممتحنة",
+      "para": "28",
+      "total_ayat": "13",
+      "eng_name": "Al-Mumtahana"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "61",
+      "sura_name": "আছ-ছফ",
+      "titleAr": "الصف",
+      "para": "28",
+      "total_ayat": "14",
+      "eng_name": "As-Saff"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "62",
+      "sura_name": "আল জুমুআহ",
+      "titleAr": "الجمعة",
+      "para": "28",
+      "total_ayat": "11",
+      "eng_name": "Al-Jumu'a"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "63",
+      "sura_name": "মুনাফিকুন",
+      "titleAr": "المنافقون",
+      "para": "28",
+      "total_ayat": "11",
+      "eng_name": "Al-Munafiqun"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "64",
+      "sura_name": "আত-তাগাবুন",
+      "titleAr": "التغابن",
+      "para": "28",
+      "total_ayat": "18",
+      "eng_name": "At-Tagabun"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "65",
+      "sura_name": "আত্ব-ত্বালাক্ব",
+      "titleAr": "الطلاق",
+      "para": "28",
+      "total_ayat": "12",
+      "eng_name": "At-Talaq"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "66",
+      "sura_name": "আত-তাহরীম",
+      "titleAr": "التحريم",
+      "para": "28",
+      "total_ayat": "12",
+      "eng_name": "At-Tahrim"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "67",
+      "sura_name": "আল মুলক",
+      "titleAr": "الملك",
+      "para": "29",
+      "total_ayat": "30",
+      "eng_name": "Al-Mulk"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "68",
+      "sura_name": "আল কলম",
+      "titleAr": "القلم",
+      "para": "29",
+      "total_ayat": "52",
+      "eng_name": "Al-Qalam"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "69",
+      "sura_name": "আল হাক্বক্বাহ",
+      "titleAr": "الحاقة",
+      "para": "29",
+      "total_ayat": "52",
+      "eng_name": "Al-Haqqa"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "70",
+      "sura_name": "আল মা'আরিজ",
+      "titleAr": "المعارج",
+      "para": "29",
+      "total_ayat": "44",
+      "eng_name": "Al-Ma'arij"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "71",
+      "sura_name": "নূহ",
+      "titleAr": "نوح",
+      "para": "29",
+      "total_ayat": "28",
+      "eng_name": "Nuh"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "72",
+      "sura_name": "আল জিন",
+      "titleAr": "الجن",
+      "para": "29",
+      "total_ayat": "28",
+      "eng_name": "Al-Jinn"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "73",
+      "sura_name": "মুযযামমিল",
+      "titleAr": "المزمل",
+      "para": "29",
+      "total_ayat": "20",
+      "eng_name": "Al-Muzzammil"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "74",
+      "sura_name": "আল মুদ্দাসসির",
+      "titleAr": "المدثر",
+      "para": "29",
+      "total_ayat": "56",
+      "eng_name": "Al-Muddathth"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "75",
+      "sura_name": "আল ক্বেয়ামাহ",
+      "titleAr": "القيامة",
+      "para": "29",
+      "total_ayat": "40",
+      "eng_name": "Al-Qiyamat"
+    },
+    {
+      "sura_no": "76",
+      "sura_name": "আদ-দাহর",
+      "para": "29",
+      "total_ayat": "31",
+      "eng_name": "Ad-Dahr"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "77",
+      "sura_name": "আল মুরসালাত",
+      "titleAr": "المرسلات",
+      "para": "29",
+      "total_ayat": "50",
+      "eng_name": "Al-Mursalat"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "78",
+      "sura_name": "আন-নাবা",
+      "titleAr": "النبأ",
+      "para": "30",
+      "total_ayat": "40",
+      "eng_name": "An-Nabaa"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "79",
+      "sura_name": "আন-নযিআ'ত",
+      "titleAr": "النازعات",
+      "para": "30",
+      "total_ayat": "46",
+      "eng_name": "An-Nazi'at"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "80",
+      "sura_name": "আবাসা",
+      "titleAr": "عبس",
+      "para": "30",
+      "total_ayat": "42",
+      "eng_name": "Abasa"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "81",
+      "sura_name": "আত-তাকভীর",
+      "titleAr": "التكوير",
+      "para": "30",
+      "total_ayat": "29",
+      "eng_name": "At-Takwir"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "82",
+      "sura_name": "আল ইনফিতার",
+      "titleAr": "الإنفطار",
+      "para": "30",
+      "total_ayat": "19",
+      "eng_name": "Al-Infitar"
+    },
+    {
+      "sura_no": "83",
+      "sura_name": "আত-তাতফীফ",
+      "para": "30",
+      "total_ayat": "36",
+      "eng_name": "Al-Mutaffife"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "84",
+      "sura_name": "আল ইনশিক্বাক্ব",
+      "titleAr": "الإنشقاق",
+      "para": "30",
+      "total_ayat": "25",
+      "eng_name": "Al-Inshiqaq"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "85",
+      "sura_name": "আল বুরূজ",
+      "titleAr": "البروج",
+      "para": "30",
+      "total_ayat": "22",
+      "eng_name": "Al-Buruj"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "86",
+      "sura_name": "আত্ব-তারিক্ব",
+      "titleAr": "الطارق",
+      "para": "30",
+      "total_ayat": "17",
+      "eng_name": "At-Tariq"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "87",
+      "sura_name": "আল আ'লা",
+      "titleAr": "الأعلى",
+      "para": "30",
+      "total_ayat": "19",
+      "eng_name": "Al-A'la"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "88",
+      "sura_name": "আল গাশিয়াহ",
+      "titleAr": "الغاشية",
+      "para": "30",
+      "total_ayat": "26",
+      "eng_name": "Al-Gashiya"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "89",
+      "sura_name": "আল ফজর",
+      "titleAr": "الفجر",
+      "para": "30",
+      "total_ayat": "30",
+      "eng_name": "Al-Fajr"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "90",
+      "sura_name": "আল বালাদ",
+      "titleAr": "البلد",
+      "para": "30",
+      "total_ayat": "20",
+      "eng_name": "Al-Balad"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "91",
+      "sura_name": "আশ-শামস",
+      "titleAr": "الشمس",
+      "para": "30",
+      "total_ayat": "15",
+      "eng_name": "Ash-Shams"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "92",
+      "sura_name": "আল লায়ল",
+      "titleAr": "الليل",
+      "para": "30",
+      "total_ayat": "21",
+      "eng_name": "Al-Lail"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "93",
+      "sura_name": "আদ্ব-দ্বোহা",
+      "titleAr": "الضحى",
+      "para": "30",
+      "total_ayat": "11",
+      "eng_name": "Adh-Dhuha"
+    },
+    {
+      "sura_no": "94",
+      "sura_name": "ইনশিরাহ",
+      "para": "30",
+      "total_ayat": "8",
+      "eng_name": "Al-Insharh"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "95",
+      "sura_name": "ত্বীন",
+      "titleAr": "التين",
+      "para": "30",
+      "total_ayat": "8",
+      "eng_name": "At-Tin"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "96",
+      "sura_name": "আলাক",
+      "titleAr": "العلق",
+      "para": "30",
+      "total_ayat": "19",
+      "eng_name": "Al-Alaq"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "97",
+      "sura_name": "কদর",
+      "titleAr": "القدر",
+      "para": "30",
+      "total_ayat": "5",
+      "eng_name": "Al-Qadr"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "98",
+      "sura_name": "বাইয়্যিনাহ",
+      "titleAr": "البينة",
+      "para": "30",
+      "total_ayat": "8",
+      "eng_name": "Al-Baiyina"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "99",
+      "sura_name": "যিলযাল",
+      "titleAr": "الزلزلة",
+      "para": "30",
+      "total_ayat": "8",
+      "eng_name": "Al-Zalzalah"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "100",
+      "sura_name": "আদিয়াত",
+      "titleAr": "العاديات",
+      "para": "30",
+      "total_ayat": "11",
+      "eng_name": "Al-Adiyat"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "101",
+      "sura_name": "কারেয়া",
+      "titleAr": "القارعة",
+      "para": "30",
+      "total_ayat": "11",
+      "eng_name": "Al-Qari'a"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "102",
+      "sura_name": "তাকাসূর",
+      "titleAr": "التكاثر",
+      "para": "30",
+      "total_ayat": "8",
+      "eng_name": "At-Takathur"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "103",
+      "sura_name": "আসর",
+      "titleAr": "العصر",
+      "para": "30",
+      "total_ayat": "3",
+      "eng_name": "Al-Asr"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "104",
+      "sura_name": "হুমাযাহ",
+      "titleAr": "الهمزة",
+      "para": "30",
+      "total_ayat": "9",
+      "eng_name": "Al-Humaza"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "105",
+      "sura_name": "আল ফীল",
+      "titleAr": "الفيل",
+      "para": "30",
+      "total_ayat": "5",
+      "eng_name": "Al-Fil"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "106",
+      "sura_name": "কুরাইশ",
+      "titleAr": "قريش",
+      "para": "30",
+      "total_ayat": "4",
+      "eng_name": "Quraish"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "107",
+      "sura_name": "মাঊন",
+      "titleAr": "الماعون",
+      "para": "30",
+      "total_ayat": "7",
+      "eng_name": "Al-Ma'un"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "108",
+      "sura_name": "কাওসার",
+      "titleAr": "الكوثر",
+      "para": "30",
+      "total_ayat": "3",
+      "eng_name": "Al-Kauthar"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "109",
+      "sura_name": "কাফিরুন",
+      "titleAr": "الكافرون",
+      "para": "30",
+      "total_ayat": "6",
+      "eng_name": "Al-Kafirun"
+    },
+    {
+      "place": "Medina",
+      "type": "Madaniyah",
+      "sura_no": "110",
+      "sura_name": "আন নাসর",
+      "titleAr": "النصر",
+      "para": "30",
+      "total_ayat": "3",
+      "eng_name": "An-Nasr"
+    },
+    {
+      "sura_no": "111",
+      "sura_name": "লাহাব",
+      "para": "30",
+      "total_ayat": "5",
+      "eng_name": "Lahab"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "112",
+      "sura_name": "আল ইখলাস",
+      "titleAr": "الإخلاص",
+      "para": "30",
+      "total_ayat": "4",
+      "eng_name": "Al-Ikhlas"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "113",
+      "sura_name": "আল ফালাক্ব",
+      "titleAr": "الفلق",
+      "para": "30",
+      "total_ayat": "5",
+      "eng_name": "Al-Falaq"
+    },
+    {
+      "place": "Mecca",
+      "type": "Makkiyah",
+      "sura_no": "114",
+      "sura_name": "আন নাস",
+      "titleAr": "الناس",
+      "para": "30",
+      "total_ayat": "6",
+      "eng_name": "Al-Nas"
+    }
+  ]
+}
